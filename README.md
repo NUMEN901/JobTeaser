@@ -59,3 +59,29 @@ Before you begin, ensure you have the following installed:
 
 ### Frontend
 1. Navigate to the `Frontend` directory:
+   ```bash
+   cd Frontend
+2. Install dependencies:
+   ```bash
+   npm install
+3. Start the React development server:
+   ```bash
+   npm start
+
+### Database
+1. Create a new database in MySQL Workbench or via the command line.
+2. Import the provided SQL schema (jobteaser_db.sql) to set up the necessary tables.
+
+
+---
+
+### Usage
+
+### Admin Account
+Create an admin account with specific credentials to manage the application. By default:
+- Email: admin@example.com
+- Password: admin
+
+
+
+
