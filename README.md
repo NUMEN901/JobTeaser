@@ -79,8 +79,46 @@ Before you begin, ensure you have the following installed:
 
 ### Admin Account
 Create an admin account with specific credentials to manage the application. By default:
-- Email: admin@example.com
-- Password: admin
+- **Email**: admin@example.com
+- **Password**: admin
+
+### User Access
+- **Regular Users**: Register, log in, browse jobs, apply, and track their applications.
+- **Admin Users**: Manage all job postings, companies, and applications through the admin dashboard.
+
+
+---
+
+### Features in Action
+
+### User Authentication
+- Secure login and registration for users. Admin accounts are marked with special privileges.
+
+### Job List
+- Displays all available job opportunities.
+- Users can view job details and apply via a form.
+
+### Profile Management
+- Users can update their profile information, including work experience and education.
+
+### Admin Dashboard
+- Provides tools for admins to manage jobs, companies, and user applications.
+
+
+---
+
+
+### Future Improvements
+- **Advanced Search**: Add filters and search options for job listings.
+- **Email Notifications**: Notify users of application updates or new job postings.
+- **Improved Security**: Transition to token-based authentication for enhanced security.
+- **Role-Based Access Control (RBAC)**: Add more granular roles for employers and candidates.
+
+
+
+
+
+
 
 
 
