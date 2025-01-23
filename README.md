@@ -53,3 +53,9 @@ Before you begin, ensure you have the following installed:
 2. Install dependencies using:
    ```bash
    npm install
+3. Start the backend server:
+   ```bash
+   node server.js
+
+### Frontend
+1. Navigate to the `Frontend` directory:
